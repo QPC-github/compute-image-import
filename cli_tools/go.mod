@@ -28,7 +28,7 @@ require (
 	go.chromium.org/luci v0.0.0-20210204234011-34a994fe5aec // indirect
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27
+	golang.org/x/sys v0.1.0
 	google.golang.org/api v0.67.0
 	google.golang.org/protobuf v1.27.1
 )
